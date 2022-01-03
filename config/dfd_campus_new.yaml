@@ -1,0 +1,8 @@
+train: ./dhd_campus_new/train
+val: ./dhd_campus_new/val
+test: ./dhd_campus_new/test
+
+# Classes
+nc: 1  # number of classes
+names: ['person']  # class names
+

@@ -1,0 +1,8 @@
+train: ./dfd_campus/train
+val: ./dfd_campus/val
+test: ./dfd_campus/test
+
+# Classes
+nc: 1  # number of classes
+names: ['person']  # class names
+
